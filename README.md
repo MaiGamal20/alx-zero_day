@@ -1,2 +1,2 @@
-#My first readme
-##Project details:
+# My first readme
+## Project details:
